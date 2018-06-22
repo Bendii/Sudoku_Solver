@@ -20,7 +20,6 @@ public class Solver {
         currentColumn = 0;
       }
     }
-    
     solve(gridArray);
   }
   
