@@ -19,7 +19,6 @@ public class Solver {
         currentRow = (i+1)/9;
         currentColumn = 0;
       }
-      
     }
     solve(gridArray);
   }
